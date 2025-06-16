@@ -1,0 +1,26 @@
+# HTTP client
+requests
+
+# Transformers for summarization
+transformers
+torch
+
+# Coqui TTS for voice synthesis
+TTS
+
+# Pexels API wrapper (install via pip)
+pexels_api
+
+# MoviePy for video assembly
+moviepy
+
+# YouTube Data API client
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+# Dotenv to load .env
+python-dotenv
+
+# (Optionally) For logs
+# loguru
