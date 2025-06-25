@@ -46,20 +46,35 @@ An end-to-end modular Python application that:
 ## 🏗️ Project Structure
 
 ├── app.py
+
 ├── config.py
+
 ├── .env
+
 ├── requirements.txt
+
 ├── app/
+
 │ ├── news_fetcher/
+
 │ ├── script_generator/
+
 │ ├── voiceover/
+
 │ ├── visual_generator/
+
 │ ├── video_assembler/
+
 │ └── uploader/
+
 ├── output/
+
 │ ├── audio/
+
 │ ├── images/
+
 │ └── videos/
+
 └── logs/
 
 🚀 What Happens When You Run It
