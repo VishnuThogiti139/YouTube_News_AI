@@ -33,7 +33,7 @@ An end-to-end modular Python application that:
 | Summarization    | facebook/bart-large-cnn            | AI / NLP    |
 | TTS              | Coqui TTS (Tacotron2-DDC)          | AI / Audio  |
 | Images           | Pexels API                         | API         |
-| Video Editing    | MoviePy                            | Library     |
+| Video Editing    | MoviePy/Google veo 3               | Library/API |
 | Uploading        | YouTube Data API v3 + OAuth        | API         |
 | Config Mgmt      | python-dotenv                      | Env loader  |
 
